@@ -24,6 +24,9 @@
 
   ***[`TAP HERE YOU OPEN SESSIOS APP`](https://menya-b670d2f980d0.herokuapp.com/)***
 
+|---------------------------------
+***`DEPLOY TO HEROKU NOW`***
+
 
 [![Deploy on heroku](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/ibrahimaitech/FREDI_ADAMS/tree/main)
 
@@ -43,7 +46,9 @@
 
 
 𝙴𝙽𝙹𝙾𝚈 𝚃𝙷𝙴 𝙱𝙾𝚃.
-
+|
+***`ENJOY NEW FEATURES🎊`***
+|-------------------------------
    ## 🚀 `Bot Features`
 | Feature                          | Description                                             | Available    | Version    |
 | ---------------------------------| ------------------------------------------------------- | ------------ | ---------- |
@@ -59,7 +64,7 @@
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 <br/> <div align="center">
-[![github](https://github.com/github.png?size=100)](https://github.com/ibrahimaitech)[![Heroku](https://github.com/heroku.png?size=100)](#click-here-to-deploy)[![replit](https://github.com/replit.png?size=100)](https://github.com/ibrahimaitech) [![whatsapp](https://github.com/whatsapp.png?size=89)](https://ibrahimaitech)[![bot](https://github.com/youtube.png?size=89)](https://github.com/ibrahimaitech)[![Heroku](https://github.com/facebook.png?size=89)](https://ibrahimaitech)[![Heroku](https://github.com/instagram.png?size=89)](https://github.com/ibrahimaitech)[![Heroku](https://github.com/you-tube.png?size=89)](https://github.com/ibrahimaitech)<br/>
+[![github](https://github.com/github.png?size=100)](https://github.com/Fred1e/FREDI_ADAMS_MD-)[![Heroku](https://github.com/heroku.png?size=100)](#click-here-to-deploy)[![replit](https://github.com/replit.png?size=100)](https://github.com/Fred1e/FREDI_ADAMS_MD-) [![whatsapp](https://github.com/whatsapp.png?size=89)](https://FREDIADAMS)[![bot](https://github.com/youtube.png?size=89)](https://github.com/@FreeonlinetvT1)[![Heroku](https://github.com/facebook.png?size=89)](https://ibrahimaitech)[![Heroku](https://github.com/instagram.png?size=89)](https://github.com/fredieman)[![Heroku](https://github.com/you-tube.png?size=89)](https://github.com/ibrahimaitech)<br/>
 </div>
 ## 𝙏𝙝𝙖𝙣𝙠𝙨 𝙏𝙤 
 
