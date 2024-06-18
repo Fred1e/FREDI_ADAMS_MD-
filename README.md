@@ -7,10 +7,10 @@
  
 ![Aaaaand many more](res/readme/context.gif)
 
- ## Join my channel for updates and get free cc
+ ## Join my channel
 
 
-<a href="https://whatsapp.com/channel/0029VaZuGSxEawdxZK9CzM0Y" target="_blank">
+<a href="https://whatsapp.com/channel/0029VafeCKHKmCPMtW3bFA08" target="_blank">
     <img alt="whatsapp Group" src="https://img.shields.io/badge/ Whatsapp Support Channel -25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>
 </p>
@@ -18,17 +18,14 @@
 
  **`DEPLOYMENT METHODS`**-
 
-
-[![FORK BLACK-PANTHER-MD](https://img.shields.io/badge/FORK%20-BLACK%20PANTHER%20MD-white)](https://github.com/ibrahimaitech/BLACK-PANTHER-XMD/fork)
-
  <h1 align="center">  SESSION SITE 
 
 
 
-  ***[`TAP HERE YOU OPEN SESSION SITE`](https://github.com/IBRAHIM-TECH-AI/SESSION-SITE/tree/main)***
+  ***[`TAP HERE YOU OPEN SESSIOS APP`](https://menya-b670d2f980d0.herokuapp.com/)***
 
 
-[![Deploy on heroku](https://www.herokucdn.com/deploy/button.svg)](https://github.com/IBRAHIM-TECH-AI/DEPLOYMENT-SITE/tree/main)
+[![Deploy on heroku](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/ibrahimaitech/FREDI_ADAMS/tree/main)
 
 <br>
 
