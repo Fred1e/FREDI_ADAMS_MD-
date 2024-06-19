@@ -25,9 +25,11 @@
   ***[`TAP HERE YOU OPEN SESSIOS APP`](https://menya-b670d2f980d0.herokuapp.com/)***
 
 
-|
-***`DEPLOY TO HEROKU NOW`***
-|
+
+
+
+<h1 align="center">  DEPLOY TO HEROKU NOW
+
 
 
 [![Deploy on heroku](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/ibrahimaitech/FREDI_ADAMS/tree/main)
