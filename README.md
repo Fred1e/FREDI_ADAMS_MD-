@@ -4,6 +4,7 @@
 <p align="center">  
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Am+Fredi+Adams+MD+Created+By+Fredie..&heart;++;Self-taught+Green-Created+By,;Fredi+Adams+Am+The,;Best+Is+Bot+For+You+To,;Deploy..<3"></a>
 </p>
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
   <a href="https://ibb.co/N6NMDtn"><img src="https://telegra.ph/file/e5834a2b98545c5c963d2.jpg" alt="01" border="0" /></a>     
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
  
@@ -17,10 +18,12 @@
   </a>
 </p>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
  **`DEPLOYMENT METHODS`**-
 
  <h1 align="center">  SESSION SITE 
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
 
   ## 1 *`⨷TAP HERE YOU OPEN SESSIOS APP`*
@@ -29,7 +32,7 @@
   [*`ADAMS APP`*](https://menya-b670d2f980d0.herokuapp.com/)
 
 
-
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
 
 <h1 align="center">  DEPLOY TO HEROKU NOW
@@ -75,8 +78,8 @@
 [![github](https://github.com/github.png?size=100)](https://github.com/Fred1e/FREDI_ADAMS_MD-)[![Heroku](https://github.com/heroku.png?size=100)](#click-here-to-deploy)[![replit](https://github.com/replit.png?size=100)](https://github.com/Fred1e/FREDI_ADAMS_MD-) [![whatsapp](https://github.com/whatsapp.png?size=89)](https://FREDIADAMS)[![bot](https://github.com/youtube.png?size=89)](https://github.com/@FreeonlinetvT1)[![Heroku](https://github.com/facebook.png?size=89)](https://ibrahimaitech)[![Heroku](https://github.com/instagram.png?size=89)](https://github.com/fredieman)[![Heroku](https://github.com/you-tube.png?size=89)](https://github.com/ibrahimaitech)<br/>
 </div>
 ## 𝙏𝙝𝙖𝙣𝙠𝙨 𝙏𝙤 
-
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 [`GOD🙏`]
-
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
