@@ -21,11 +21,10 @@
  <h1 align="center">  SESSION SITE 
 
 
-
-  ***[`TAP HERE YOU OPEN SESSIOS APP`]
+  ## 1 *`⨷TAP HERE YOU OPEN SESSIOS APP`*
 
   
-  [*`ADAMS APP`*](https://menya-b670d2f980d0.herokuapp.com/)***
+  [*`ADAMS APP`*](https://menya-b670d2f980d0.herokuapp.com/)
 
 
 
