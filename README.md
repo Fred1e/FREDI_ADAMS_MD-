@@ -22,7 +22,10 @@
 
 
 
-  ***[`TAP HERE YOU OPEN SESSIOS APP`](https://menya-b670d2f980d0.herokuapp.com/)***
+  ***[`TAP HERE YOU OPEN SESSIOS APP`]
+
+  
+  [*`ADAMS APP`*](https://menya-b670d2f980d0.herokuapp.com/)***
 
 
 
