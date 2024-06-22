@@ -2,7 +2,7 @@
   "name": "Fredi Adams MD X5 whatsapp",
   "description": "whatsapp md bot build with nodejs",
   "repository": "https://github.com/Fred1e/FREDI_ADAMS_MD--",
-  "logo": "https://telegra.ph/file/ec059aa5db556bbd951c6.jpg",
+  "logo": "https://telegra.ph/file/15c4be8e131aa0339fd64.jpg",
   "keywords": ["nodejs", "bot", "what5sapp bot", "whatsapp automation", "multi device"],
   "buildpacks": [
     {
@@ -15,8 +15,8 @@
       "url": "https://github.com/DuckyTeam/heroku-buildpack-imagemagick"
     },
     {
-      "url": "https://github.com/clhuang/heroku-buildpack-webp-binaries.git"
-    }
+ },   "url": "https://github.com/clhuang/heroku-buildpack-webp-binaries.git"
+    }, 
         "required": false
   
   },
