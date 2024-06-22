@@ -29,7 +29,7 @@
   ## 1 *`⨷TAP HERE YOU OPEN SESSIOS APP`*
 
   
-  [*`ADAMS APP`*](https://menya-b670d2f980d0.herokuapp.com/)
+  [*`ADAMS APP`*](https://fredietech-9a463a9f46ea.herokuapp.com/)
 
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
