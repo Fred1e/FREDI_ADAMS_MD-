@@ -26,9 +26,11 @@
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
 
+<h1 align="center">
+
   ## 1 *`⨷TAP HERE YOU OPEN SESSIOS APP`*
 
-  <h1 align="center"> 
+ 
  
   **[`ADAMS APP`](https://fredietech-9a463a9f46ea.herokuapp.com/)**
 
